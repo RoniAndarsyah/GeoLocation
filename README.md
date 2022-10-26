@@ -6,6 +6,10 @@ masuk kedalam folder yang dipilih ketikan
 jika ingin menggunakan font yang bagus silahkan pilih disini [https://fonts.google.com/](https://fonts.google.com/)
 saya pilih font Nunito
 
+## Snipet React Download dulu
+
+disini ya [ES7+ React/Redux/React-Native snippets]
+
 ## Available Scripts
 
 jalankan aplikasinya ketikan
